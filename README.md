@@ -11,3 +11,6 @@
 [축복 매니저](https://github.com/jhkildong/bsGame-/blob/main/ProjectBS/Assets/_BsScripts/Manager/BlessManager.cs)  
 [Movement, Combat](https://github.com/jhkildong/bsGame-/tree/main/ProjectBS/Assets/_BsScripts/Movement/Yeon)  
 [UI 로직](https://github.com/jhkildong/bsGame-/tree/main/ProjectBS/Assets/_BsScripts/UI)  
+
+스크립트 추가 설명
+(https://docs.google.com/document/d/1qYCR5lGV9Dok9FwCRAlsXZurtyTiLKIqrdL-FgIUBNU/edit?usp=drive_link)
