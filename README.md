@@ -1,6 +1,6 @@
 # README
 [스크립트폴더](https://github.com/jhkildong/bsGame-/tree/main/ProjectBS/Assets/_BsScripts)  
-담당부분  
+### 담당부분  
 [몬스터](https://github.com/jhkildong/bsGame-/tree/main/ProjectBS/Assets/_BsScripts/MonsterScript)  
 [플레이어](https://github.com/jhkildong/bsGame-/tree/main/ProjectBS/Assets/_BsScripts/Player)  
 [InputSystem](https://github.com/jhkildong/bsGame-/tree/main/ProjectBS/Assets/_BsScripts/InputSystem)  
