@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7f14dc289518574496800802be9a349, type: 3}
+  m_Name: Bless_RM
+  m_EditorClassIdentifier: 
+  _id: 1090
+  _icon: {fileID: 21300000, guid: cd1b5c04c4132f7478141de174b88771, type: 3}
+  _name: "\uC369\uC740\uC6B0\uC720"
+  _description: "\uC369\uC740 \uC6B0\uC720(\uC624\uB77C)\uB97C 1\uAC1C \uC0DD\uC131\uD55C\uB2E4."
+  _prefab: {fileID: 3540576751485843617, guid: 9708fd17065614047a838de3220525e3, type: 3}
+  _lvDataList:
+  - name: Attack
+    defaultValue: 10
+    levelUpType: 1
+    levelUpTable:
+    - 0
+    - 0
+    - 0.2
+    - 0
+    - 0
+    - 0.3
+    - 0
+  - name: DelayTime
+    defaultValue: 1
+    levelUpType: 2
+    levelUpTable:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.3
+    - 0
+    - 0.4
+  - name: AtRange
+    defaultValue: 3
+    levelUpType: 1
+    levelUpTable:
+    - 0.2
+    - 0.2
+    - 0
+    - 0.2
+    - 0
+    - 0
+    - 0

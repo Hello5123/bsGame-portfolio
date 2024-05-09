@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0587bf083a8b3284f8d30953e9dd5373, type: 3}
+  m_Name: 09_NM_Demolition_Imp
+  m_EditorClassIdentifier: 
+  _id: 9
+  _name: Imp
+  _attack: 2
+  _attackDelay: 1
+  _speed: 2.5
+  _maxHp: 40
+  _exp: 5
+  _gold: 15
+  _mass: 2
+  _radius: 0.4
+  _prefab: {fileID: 710075996187122608, guid: 9d48d77671a907742bbfecdec4990941, type: 3}
+  _dropItemList:
+  - ID: 2004
+    dropChance: 50
+  - ID: 2500
+    dropChance: 50
+  _weight: 8
+  _type: 2
+  _amount: 2
+  _buildingDmg: 5
+  _attackRange: 2
